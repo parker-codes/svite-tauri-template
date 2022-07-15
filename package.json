@@ -13,7 +13,7 @@
   "dependencies": {
     "@sveltech/routify": "^1.8.0",
     "@tailwindcss/ui": "^0.3.1",
-    "svelte": "^3.23.2",
+    "svelte": "^3.49.0",
     "tauri": "^0.9.1"
   },
   "devDependencies": {
